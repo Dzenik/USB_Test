@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFF GenericHID Test Application", "WFF GenericHID Test Application\WFF GenericHID Test Application.csproj", "{AAEADE74-D854-4175-91DE-933EA853B892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFF GenericHID Communication Library", "WFF GenericHID Communication Library\WFF GenericHID Communication Library.csproj", "{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Debug|x86.ActiveCfg = Debug|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Debug|x86.Build.0 = Debug|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Release|Any CPU.ActiveCfg = Release|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Release|x86.ActiveCfg = Release|x86
+		{AAEADE74-D854-4175-91DE-933EA853B892}.Release|x86.Build.0 = Release|x86
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F4B78E67-01DE-4DE1-A4C6-76C9757B76D8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

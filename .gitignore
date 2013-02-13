@@ -17,3 +17,9 @@
 *.app
 /BootLoader/Board/*.old
 /src/Board/*.old
+*.user
+*.pdb
+*.xml
+*.cache
+*.tlog
+*.manifest

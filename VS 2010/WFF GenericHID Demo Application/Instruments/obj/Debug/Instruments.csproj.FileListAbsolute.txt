@@ -1,0 +1,6 @@
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\bin\Debug\Instruments.xml
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\bin\Debug\Instruments.dll
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\bin\Debug\Instruments.pdb
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\obj\Debug\Instruments.dll
+C:\Temp\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\Instruments\obj\Debug\Instruments.pdb

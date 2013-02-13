@@ -1,0 +1,11 @@
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\bin\Release\WFF GenericHID Test Application.exe
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\bin\Release\WFF GenericHID Test Application.pdb
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\bin\Release\WFF GenericHID Communication Library.dll
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\bin\Release\WFF GenericHID Communication Library.pdb
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\WFF_GenericHID_Test_Application.mainForm.resources
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\WFF_GenericHID_Test_Application.Properties.Resources.resources
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\WFF GenericHID Test Application.exe
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Test Application\obj\x86\Release\WFF GenericHID Test Application.pdb
